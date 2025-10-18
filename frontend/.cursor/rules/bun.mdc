@@ -1,0 +1,9 @@
+---
+description: Use Bun for the project.
+globs:
+alwaysApply: true
+---
+
+For package management and running scripts, use Bun.
+
+You can use bunx to run package commands.
