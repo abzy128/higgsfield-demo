@@ -1,0 +1,8 @@
+---
+description: Use shadcn/ui for the project.
+globs:
+alwaysApply: true
+---
+
+Use shadcn/ui React components for the project.
+They are in the @/components/ui directory.
